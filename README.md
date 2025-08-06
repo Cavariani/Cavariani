@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor e produtor musical com experiência em:
+Minha experiência até agora:
 
 - Criação de sistemas em **Java** e **C#**  
 - Desenvolvimento web com **HTML**, **CSS** e **React**  
