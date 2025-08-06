@@ -37,8 +37,7 @@ Sou um desenvolvedor e produtor musical com experiência em:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot Engine"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Maven"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Ableton_live_logo.svg" width="40" title="Ableton Live"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/dart-original.svg" width="40" title="Dart"/>
 </p>
 
 ---
