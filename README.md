@@ -10,54 +10,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80" title="Dart"/>
 </p>
 
-<h1 align="center">👋 Oi, eu sou o Pedro.</h1>
+<h1 align="center">👋 Hi, I'm Pedro.</h1>
 
 <p align="center">
-🤖 Desenvolvedor | 🎧 Produtor Musical | 🎮 Criador de Jogos | 💻 Apaixonado por Tecnologia  
+🤖 Developer | 🎧 Music Producer | 🎮 Game Creator | 💻 Tech Enthusiast  
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-Minha experiência até agora:
+My experience so far:
 
-- Criação de sistemas em **Java** e **C#**  
-- Desenvolvimento web com **HTML**, **CSS** e **React**  
-- Criação de jogos com **Godot Engine (GDScript)**  
-- Aplicativos mobile usando **Flutter** e **Dart**  
-- Design gráfico e produção audiovisual  
-- Montagem e manutenção de computadores de alta performance, incluindo **reparo de hardware** e **instalação de componentes de alto padrão**  
-
----
-
-🎓 Estudante de **Sistemas de Informação** na FIAP *(conclusão em outubro de 2026)*  
-
-🎓 Formado no curso **CS50 (Introduction to Computer Science)** da **Harvard University**  
-
-🎓 Formado pela **Garnish Music School (Los Angeles)** — intercâmbio de 6 meses em 2020, curso reconhecido oficialmente pela **Ableton**  
-
-🧠 **Trainee oficial do Ableton Live**, com licença internacional validada pela Ableton  
-
-🏢 Atualmente trabalho na **MLEGATE** (São Paulo), utilizando **Power BI**, **Power Query** e **SharePoint** diariamente dentro da empresa  
-
-🎮 No tempo livre, desenvolvo um jogo autoral para **PC/macOS** com Godot Engine, e faço trabalhos de FreeLance na área da produção musical
+- Building systems in **Java** and **C#**  
+- Web development with **HTML**, **CSS**, and **React**  
+- Game development using **Godot Engine (GDScript)**  
+- Mobile apps with **Flutter** and **Dart**  
+- Graphic design and audiovisual production  
+- Assembling and maintaining high-performance computers, including **hardware repair** and **installation of high-end components**  
 
 ---
 
-### ✨ Projetos em andamento
+🎓 **Information Systems** student at FIAP *(expected graduation: October 2026)*  
 
-🎮 **Jogo para PC/macOS** — em desenvolvimento com **Godot + GDScript**  
-Um **Roguelike de cartas** inspirado em *Balatro* e *Slay the Spire*, feito de forma 100% independente.
+🎓 Graduate of **CS50 (Introduction to Computer Science)** by **Harvard University**  
+
+🎓 Graduate of **Garnish Music School (Los Angeles)** — 6-month exchange program in 2020, officially recognized by **Ableton**  
+
+🧠 **Official Ableton Live Trainee**, with an internationally validated license by Ableton  
+
+🏢 Currently working at **MLEGATE** (São Paulo), using **Power BI**, **Power Query**, and **SharePoint** daily within the company  
+
+🎮 In my free time, I develop an indie game for **PC/macOS** with Godot Engine, and do freelance work in music production  
 
 ---
 
-### 📫 Contato
+### ✨ Ongoing Projects
+
+🎮 **PC/macOS Game** — developed with **Godot + GDScript**  
+A **card-based roguelike** inspired by *Balatro* and *Slay the Spire*, made completely independently.  
+
+---
+
+### 📫 Contact
 
 - [LinkedIn](https://br.linkedin.com/in/pedro-cavariani-4a752a270?original_referer=https%3A%2F%2Fwww.google.com%2F)
 - [Instagram](https://www.instagram.com/nunkdorme/)  
-- 📧 Email: pedrorcavariani@hotmail.com
+- 📧 Email: pedrorcavariani@hotmail.com  
 
 ---
 
-<p align="center">✨ Sempre aprendendo. Sempre criando. Sempre com café. ☕</p>
+<p align="center">✨ Always learning. Always creating. Always with coffee. ☕</p>
